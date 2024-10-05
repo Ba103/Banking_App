@@ -10,6 +10,8 @@ public class Application {
 	 SpringApplication.run(Application.class, args);
 
 	 //add  the rest Templet to communicate the other application
+
+	 int i=10;
 	}
 
 }
